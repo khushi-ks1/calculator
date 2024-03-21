@@ -1,4 +1,5 @@
 #calculator
+print("Welcome to khushi's calculator")
 from art import logo
 
 
@@ -51,3 +52,4 @@ def cal():
 
 cal()
 #this is known as recursion as we calling it once again and again
+#gotta learn git quickly 
